@@ -23,14 +23,8 @@ van der Ree, Rodney & Mccarthy, Michael. (2005). Inferring persistence of indige
 - Users can access the GitHub repository by https://github.com/uwijewardhana/UDMPPM.
 
 ```r
-Authors:
-
-Udani A. Wijewardhana1, Madawa Jayawardana1, 2, 3, Denny Meyer1
-
-1 Department of Statistics, Data Science and Epidemiology, Swinburne University of Technology, Hawthorn, Victoria, Australia
-2 Peter MacCallum Cancer Centre, Melbourne 3000 Victoria, Australia
-3 Sir Peter MacCallum Department of Oncology, The University of Melbourne, Parkville 3010 Victoria, Australia
-
+Author:
+Udani A. Wijewardhana
 * uwijewardhana@swin.edu.au
 ```
 

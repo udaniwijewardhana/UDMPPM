@@ -20,4 +20,4 @@ van der Ree, Rodney & Mccarthy, Michael. (2005). Inferring persistence of indige
 ## Installation:
 
 - Users can launch the application by https://udani-wijewardhana.shinyapps.io/UDMPPM/.
-- Users can access the GitHub repository by https://github.com/uwijewardhana/UDMPPM.
+- Users can access the GitHub repository by https://github.com/udaniwijewardhana/UDMPPM.
